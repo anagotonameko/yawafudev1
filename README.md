@@ -7,6 +7,8 @@
 「主張しすぎない文字」が欲しい場面で使いやすいフォントを目指しました。
 
 ---
+## サンプル
+## 作者<img width="2360" height="1640" alt="無題523_20260216110705" src="https://github.com/user-attachments/assets/1a22ff34-aa24-4d83-852f-2f1d81f1f41f" />
 
 ## 対応文字
 
@@ -58,9 +60,6 @@
 
 - v1.0：初版リリース
 
-## サンプル
-
-## 作者<img width="2360" height="1640" alt="無題523_20260216110705" src="https://github.com/user-attachments/assets/1a22ff34-aa24-4d83-852f-2f1d81f1f41f" />
 
 ## ひとこと
 ChatGPTが作ったやつをそのままパクりました。あとちょっと書き換えました。だからすごい変かもしれません。ごめんね。　あとhttps://buttaiwan.github.io/writemyfont/ja.html　←このサイトでフォントを作りました。ありがとう。
